@@ -1,0 +1,7 @@
+[Plugin]
+Name=Word Count
+Description=Displays a total word count in the status bar.
+Authors=James Gill <dev@null.net>
+Website=https://jamesgill.net
+Loader=python3
+Module=word_count
