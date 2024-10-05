@@ -7,7 +7,7 @@ NOTE: Currently for Linux only.
 
 ## Installation
 
-* Simplest: Move `folding.plugin` and `folding.py` into `~/.local/share/gedit/plugins`
+* Simplest: Move `word_count.plugin` and `word_count.py` into `~/.local/share/gedit/plugins`
 * More convenient:
 ```
 cd ~/.local/share/gedit/plugins
